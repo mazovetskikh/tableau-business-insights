@@ -1,4 +1,6 @@
-# 📊 Tableau Business Insights  
+<p align="center">
+  # 📊 Tableau Business Insights 
+</p>
 A curated collection of Tableau dashboards analyzing revenue dynamics, cohort performance, user behavior, and product-level insights across multiple business areas.
 
 ### Revenue & User Insights ⬇️  
@@ -37,6 +39,7 @@ A clear BI-style dashboard presenting:
 - Category-level bubble charts for visual comparison  
 
 [▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ---
 
 ## 🧠 Key Business Insights  
