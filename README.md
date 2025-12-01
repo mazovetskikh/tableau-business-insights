@@ -42,7 +42,11 @@ A deeper analytical dashboard focused on performance over time, featuring:
 - Total revenue with monthly % change  
 - Regional & product segmentation filters  
 
-[▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<p align="center">
+  <a href="https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://img.shields.io/badge/▶️%20View%20and%20interact%20with%20the%20dashboard-1f77b4?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
@@ -56,7 +60,11 @@ A clear BI-style dashboard presenting:
 - Regional performance by month  
 - Category-level bubble charts for visual comparison  
 
-[▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<p align="center">
+  <a href="https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    <img src="https://img.shields.io/badge/▶️%20View%20and%20interact%20with%20the%20dashboard-1f77b4?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
