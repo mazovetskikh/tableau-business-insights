@@ -13,8 +13,6 @@ A curated collection of Tableau dashboards analyzing revenue dynamics, cohort pe
 
 ---
 
-<h2 align="center">Revenue & User Insights ⬇️ </h2>
-
 ![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
 
 A complete financial and behavioral overview combining:  
@@ -27,7 +25,6 @@ A complete financial and behavioral overview combining:
 
 ---
 
-## Revenue Growth & Cohort Analysis ⬇️
 ![Revenue Growth & Cohort Analysis](2%20Revenue%20Growth%20%26%20Cohort%20Analysis%20Dashboard.png)
 
 A deeper analytical dashboard focused on performance over time, featuring:  
@@ -40,7 +37,6 @@ A deeper analytical dashboard focused on performance over time, featuring:
 
 ---
 
-## Monthly Revenue Insights ⬇️
 ![Dashboard Preview](1%20Monthly%20Revenue%20Insights%20Dashboard.png)
 
 A clear BI-style dashboard presenting:  
