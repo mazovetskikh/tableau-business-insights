@@ -1,6 +1,5 @@
-<p align="center">
-  # 📊 Tableau Business Insights 
-</p>
+<h1 align="center">📊 Tableau Business Insights</h1>
+
 A curated collection of Tableau dashboards analyzing revenue dynamics, cohort performance, user behavior, and product-level insights across multiple business areas.
 
 ### Revenue & User Insights ⬇️  
