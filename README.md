@@ -1,9 +1,9 @@
 # 📊 Tableau Business Insights  
 A curated collection of Tableau dashboards analyzing revenue dynamics, cohort performance, user behavior, and product-level insights across multiple business areas.
 
-## 📁 Dashboards Included  
+### Revenue & User Insights ⬇️  
+![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
 
-### 1️⃣ **Revenue & User Insights Dashboard**  
 A complete financial and behavioral overview combining:  
 - Monthly revenue breakdown by product  
 - Quarterly revenue share by region (USA, EMEA, APAC)  
@@ -11,11 +11,13 @@ A complete financial and behavioral overview combining:
 - Revenue distribution by product and geography  
 
 🔗 **View Dashboard:**  
-*(Add Tableau Public link here if published)*  
+*https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 ---
 
-### 2️⃣ **Revenue Growth & Cohort Analysis Dashboard**  
+### Revenue Growth & Cohort Analysis ⬇️
+![Revenue Growth & Cohort Analysis](2%20Revenue%20Growth%20%26%20Cohort%20Analysis%20Dashboard.png)
+
 A deeper analytical dashboard focused on performance over time, featuring:  
 - Cohort revenue heatmap  
 - Monthly recurring revenue rankings  
@@ -23,11 +25,13 @@ A deeper analytical dashboard focused on performance over time, featuring:
 - Regional & product segmentation filters  
 
 🔗 **View Dashboard:**  
-*(Add Tableau Public link here)*  
+*(https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
-### 3️⃣ **Monthly Revenue Insights Dashboard**  
+### Monthly Revenue Insights ⬇️
+![Dashboard Preview](1%20Monthly%20Revenue%20Insights%20Dashboard.png)
+
 A clear BI-style dashboard presenting:  
 - Month-over-month revenue trends  
 - Product revenue distribution  
@@ -35,7 +39,7 @@ A clear BI-style dashboard presenting:
 - Category-level bubble charts for visual comparison  
 
 🔗 **View Dashboard:**  
-*(Add Tableau Public link here)*  
+*(https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
 
 ---
 
@@ -59,14 +63,3 @@ These insights help identify high-impact opportunities in product strategy, targ
 - Visualization best practices (clean UI, interactive filters)
 
 ---
-
-## 🖼 Dashboard Previews  
-
-### Revenue & User Insights  
-![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
-
-### Revenue Growth & Cohort Analysis  
-![Revenue Growth & Cohort Analysis](2%20Revenue%20Growth%20%26%20Cohort%20Analysis%20Dashboard.png)
-
-### Monthly Revenue Insights  
-![Dashboard Preview](1%20Monthly%20Revenue%20Insights%20Dashboard.png)
