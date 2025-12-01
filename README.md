@@ -1,6 +1,17 @@
 <h1 align="center">📊 Tableau Business Insights</h1>
 
+<p align="center">
 A curated collection of Tableau dashboards analyzing revenue dynamics, cohort performance, user behavior, and product-level insights across multiple business areas.
+</p>
+
+---
+
+## 📁 Dashboards Included
+- [Revenue & User Insights](#revenue--user-insights)
+- [Revenue Growth & Cohort Analysis](#revenue-growth--cohort-analysis)
+- [Monthly Revenue Insights](#monthly-revenue-insights)
+
+---
 
 ### Revenue & User Insights ⬇️  
 ![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
@@ -60,96 +71,7 @@ These insights help identify high-impact opportunities in product strategy, targ
 - Revenue KPIs (MMR, ARPPU, CR%, MOM change)  
 - Visualization best practices (clean UI, interactive filters)
 
----
-<h1 align="center">📊 Tableau Business Insights</h1>
-
-<p align="center">
-A curated collection of Tableau dashboards analyzing revenue dynamics, cohort performance, user behavior, and product-level insights across multiple business areas.
-</p>
-
----
-
-## 📁 Dashboards Included
-- [Revenue & User Insights](#revenue--user-insights)
-- [Revenue Growth & Cohort Analysis](#revenue-growth--cohort-analysis)
-- [Monthly Revenue Insights](#monthly-revenue-insights)
-
----
-
-# Revenue & User Insights 🔍
-
-<p align="center">
-  <img src="3 Revenue&User Insights Dashboard.png" width="90%" />
-</p>
-
-### 🔗 <a href="https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">**View & interact with the dashboard**</a>
-
-A complete financial and behavioral overview combining:
-
-- Monthly revenue breakdown by product  
-- Quarterly revenue share by region (USA, EMEA, APAC)  
-- ARPPU & paid user trends  
-- Revenue distribution by product and geography  
-
----
-
-# Revenue Growth & Cohort Analysis 📈
-
-<p align="center">
-  <img src="2 Revenue Growth & Cohort Analysis Dashboard.png" width="90%" />
-</p>
-
-### 🔗 <a href="https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">**View & interact with the dashboard**</a>
-
-A deeper analytical dashboard focused on performance over time, featuring:
-
-- Cohort revenue behavior  
-- Monthly revenue ranking  
-- Total revenue with monthly % change  
-- Regional & product segmentation filters  
-
----
-
-# Monthly Revenue Insights 💵
-
-<p align="center">
-  <img src="1 Monthly Revenue Insights Dashboard.png" width="90%" />
-</p>
-
-### 🔗 <a href="https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">**View & interact with the dashboard**</a>
-
-A clear 360-style dashboard presenting:
-
-- Month-over-month revenue trends  
-- Product revenue distribution  
-- Regional performance by month  
-- Category-level bubble charts for visual comparison  
-
----
-
-# 💡 Key Business Insights
-
-Across the dashboards, analysis highlights:
-
-- Seasonal revenue fluctuations and high-performing periods  
-- Product categories driving long-term revenue increases  
-- Strong regional performance differences (USA leading, APAC growth spikes)  
-- Cohort-based retention patterns showing revenue drop-off curves  
-- ARPPU trends indicating monetization efficiency shifts  
-
-These insights help identify high-impact opportunities in product strategy, targeting, and user engagement.
-
----
-
-# 🛠 Tools & Skills Used
-
-- Tableau Desktop (advanced analytics & interactive design)  
-- Data modeling for multi-source datasets  
-- Cohort analysis & performance segmentation  
-- Revenue KPIs (ARPPU, ARPPU, LTV, MRR Change)  
-- Visualization best practices (clean UI, interactive filters)
-
----
-
 # 📌 Dataset  
 This project uses **synthetic educational datasets** designed for analytics training.
+
+---
