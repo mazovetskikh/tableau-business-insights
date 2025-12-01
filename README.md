@@ -10,8 +10,7 @@ A complete financial and behavioral overview combining:
 - ARPPU & paid user trends  
 - Revenue distribution by product and geography  
 
-🔗 **View Dashboard:**  
-*https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+[▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -24,8 +23,7 @@ A deeper analytical dashboard focused on performance over time, featuring:
 - Total revenue with monthly % change  
 - Regional & product segmentation filters  
 
-🔗 **View Dashboard:**  
-*(https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+[▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/h4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -38,9 +36,7 @@ A clear BI-style dashboard presenting:
 - Regional performance by month  
 - Category-level bubble charts for visual comparison  
 
-🔗 **View Dashboard:**  
-*(https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*  
-
+[▶️ **View and interact with the dashboard**](https://public.tableau.com/views/RevenueGrowthCohortAnalysis/MonthlyRevenueInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🧠 Key Business Insights  
