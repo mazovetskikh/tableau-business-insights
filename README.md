@@ -63,10 +63,10 @@ These insights help identify high-impact opportunities in product strategy, targ
 ## 🖼 Dashboard Previews  
 
 ### Revenue & User Insights  
-![Dashboard Preview](3 Revenue&User Insights Dashboard.png)
+![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
 
 ### Revenue Growth & Cohort Analysis  
-![Dashboard Preview](2 Revenue Growth & Cohort Analysis Dashboard.png)
+![Revenue Growth & Cohort Analysis](2%20Revenue%20Growth%20%26%20Cohort%20Analysis%20Dashboard.png)
 
 ### Monthly Revenue Insights  
-![Dashboard Preview](tableau-business-insights/1 Monthly Revenue Insights Dashboard.png)
+![Dashboard Preview](1%20Monthly%20Revenue%20Insights%20Dashboard.png)
