@@ -6,14 +6,14 @@ A curated collection of Tableau dashboards analyzing revenue dynamics, cohort pe
 
 ---
 
-## 📁 Dashboards Included
+#### 📁 Dashboards Included
 - [Revenue & User Insights](#revenue--user-insights)
 - [Revenue Growth & Cohort Analysis](#revenue-growth--cohort-analysis)
 - [Monthly Revenue Insights](#monthly-revenue-insights)
 
 ---
 
-### Revenue & User Insights ⬇️  
+## Revenue & User Insights ⬇️  
 ![Revenue & User Insights](3%20Revenue%26User%20Insights%20Dashboard.png)
 
 A complete financial and behavioral overview combining:  
@@ -26,7 +26,7 @@ A complete financial and behavioral overview combining:
 
 ---
 
-### Revenue Growth & Cohort Analysis ⬇️
+## Revenue Growth & Cohort Analysis ⬇️
 ![Revenue Growth & Cohort Analysis](2%20Revenue%20Growth%20%26%20Cohort%20Analysis%20Dashboard.png)
 
 A deeper analytical dashboard focused on performance over time, featuring:  
@@ -39,7 +39,7 @@ A deeper analytical dashboard focused on performance over time, featuring:
 
 ---
 
-### Monthly Revenue Insights ⬇️
+## Monthly Revenue Insights ⬇️
 ![Dashboard Preview](1%20Monthly%20Revenue%20Insights%20Dashboard.png)
 
 A clear BI-style dashboard presenting:  
@@ -52,7 +52,7 @@ A clear BI-style dashboard presenting:
 
 ---
 
-## 🧠 Key Business Insights  
+# 🧠 Key Business Insights  
 Across the dashboards, analysis highlights:  
 - Seasonal revenue fluctuations and high-performing periods  
 - Product categories driving the largest revenue share  
@@ -64,7 +64,7 @@ These insights help identify high-impact opportunities in product strategy, targ
 
 ---
 
-## 📐 Tools & Skills Used  
+# 📐 Tools & Skills Used  
 - Tableau Desktop (Advanced analytics & interactive design)  
 - Data modeling for multi-source datasets  
 - Cohort analysis & performance segmentation  
