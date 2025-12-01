@@ -69,4 +69,4 @@ These insights help identify high-impact opportunities in product strategy, targ
 ![Dashboard Preview](2 Revenue Growth & Cohort Analysis Dashboard.png)
 
 ### Monthly Revenue Insights  
-![Dashboard Preview](1 Monthly Revenue Insights Dashboard.png)
+![Dashboard Preview](https://github.com/mazovetskikh/tableau-business-insights/commit/34bd802d55195f6b58d047cd86dfd75caca1b753#diff-0c5d73794f05e501bffbe274b8e2ab7735cc31930558ad1c5d1d5c9429c13e50)
