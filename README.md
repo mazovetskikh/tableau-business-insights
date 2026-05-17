@@ -1,4 +1,5 @@
 # Tableau Business Insights
+[![Tableau](https://img.shields.io/badge/Tableau-005C9F?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/valeriia.pchelnikova/vizzes)
 
 A collection of three interactive Tableau dashboards analysing revenue dynamics, cohort performance, monetisation trends, and regional distribution for a SaaS business over a 12-month period (Jun 2022 – May 2023).
 
