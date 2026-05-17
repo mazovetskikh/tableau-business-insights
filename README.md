@@ -97,7 +97,3 @@ The June 2022 cohort generated the highest new MMR ($44,085) and shows the longe
 - Revenue KPIs: MMR, ARPPU, MoM change, regional share
 - Multi-dashboard storytelling with consistent design system
 - Interactive filters by location, product, and date range
-
----
-
-*Dataset: synthetic educational dataset designed for analytics training.*
